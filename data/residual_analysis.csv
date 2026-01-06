@@ -1,0 +1,16 @@
+# Quantitative Residual Analysis
+# Comparison: Ancestral Gene (M6-M8) vs Deep-Space Replica (M50-M52)
+
+## Gene Morphology Residuals
+Node,Gene_Phase_M6_M8,DeepSpace_Phase_M50_M52,Residual,Deviation_Percent
+Start,0.000,0.000,0.000,0.00
+Middle,0.143,0.091,-0.052,-5.21
+End,1.000,1.000,0.000,0.00
+
+# MSE = 9.05e-4
+# Geometric Feature Preservation = 94.8%
+
+## Twin Gap Compression
+Parameter,Low_Energy_M6_M7,High_Energy_M50_M51,Change
+Normalized_Gap,0.1176,0.0694,-0.0483
+Compression_Ratio,NA,NA,41.0%
