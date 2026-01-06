@@ -1,0 +1,16 @@
+# Holographic Slice Phase Patterns
+# Normalized phase coordinates for 5-point clusters
+# phi_i = (n_{k+i} - n_k) / (n_{k+4} - n_k)
+
+Slice,Start_M,End_M,phi_1,phi_2,phi_3,phi_4
+Slice_01,M1,M5,0.000,0.091,0.273,0.455
+Slice_02,M6,M10,0.000,0.028,0.194,0.611
+Slice_03,M11,M15,0.000,0.017,0.353,0.427
+Slice_04,M16,M20,0.000,0.035,0.457,0.923
+Slice_05,M21,M25,0.000,0.021,0.127,0.853
+Slice_06,M26,M30,0.000,0.196,0.579,0.802
+Slice_07,M31,M35,0.000,0.457,0.544,0.881
+Slice_08,M36,M40,0.000,0.003,0.222,0.582
+Slice_09,M41,M45,0.000,0.147,0.485,0.651
+Slice_10,M46,M50,0.000,0.014,0.441,0.913
+Slice_11,M51,M55,0.000,0.035,0.086,0.676
